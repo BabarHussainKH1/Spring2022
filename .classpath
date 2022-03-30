@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/common jars/spring-5.3.9-dist.zip"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-aop-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-beans-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-boot-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-boot-autoconfigure-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-boot-starter-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-boot-starter-aop-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-boot-starter-data-jpa-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-boot-starter-jdbc-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-boot-starter-logging-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-boot-starter-test-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-boot-starter-tomcat-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-boot-starter-web-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-boot-test-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-boot-test-autoconfigure-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-context-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-core-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-data-commons-1.13.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-data-jpa-1.11.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-expression-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/springfox-bean-validators-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/springfox-core-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/springfox-schema-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/springfox-spi-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/springfox-spring-web-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/springfox-swagger2-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/springfox-swagger-common-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/springfox-swagger-ui-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-jdbc-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-orm-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-plugin-core-1.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-plugin-metadata-1.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-test-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-tx-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-web-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/springjars/spring-webmvc-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHussain.22048/Downloads/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHussain.22048/Downloads/gson-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHussain.22048/Downloads/spring-aspects-5.3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHussain.22048/Downloads/aspectjrt-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHussain.22048/Downloads/aspectjweaver-1.9.9.jar"/>
+	<classpathentry kind="lib" path="//10.90.21.11/Users/lib/spring-boot-starter-web-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
